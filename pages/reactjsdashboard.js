@@ -1,0 +1,211 @@
+import { getSession, signOut } from "next-auth/react";
+
+export default function reactjsdashboard({ user }) {
+  return (
+    <div style={styles.container}>
+      {/* Sidebar */}
+      <div style={styles.sidebar}>
+        <h2 style={styles.logo}>MyApp</h2>
+        <ul style={styles.navList}>
+          <li style={styles.navItem}>Dashboard</li>
+          <li style={styles.navItem}>Profile</li>
+          <li style={styles.navItem}>Settings</li>
+        </ul>
+        <button onClick={() => signOut()} style={styles.logoutBtn}>Logout</button>
+      </div>
+
+      {/* Main Content */}
+      <div style={styles.content}>
+        <h1 style={styles.welcome}>Welcome, {user.name} 👋</h1>
+        {/* <div style={styles.profileCard}>
+          <img src={user.image} alt="User" style={styles.profileImage} />
+          <div>
+            <p><strong>Name:</strong> {user.name}</p>
+            <p><strong>Email:</strong> {user.email}</p>
+          </div>
+        </div> */}
+        <div style={styles.box}> 
+          <div style={styles.box1}>
+    <h4 style={styles.heading}>
+      ✅ Module 1: Introduction to HTML
+    </h4>
+ <a href="https://docs.google.com/document/d/1N7uFLVks-8AtJtYPvGgwvrZca33Pya43_NReVp4GHzw/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <span style={styles.view}>Click</span>
+</a>
+  </div>
+        </div>
+          <div style={styles.box}> 
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Module 2: HTML Text Formatting</h4> 
+           <a href="https://docs.google.com/document/d/1DT1QEk-qBYvqHh0t5NBpc58KakNYFOZUXy1gE9wd_EQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <span style={styles.view}>Click</span>
+</a>
+            </div>
+        </div>
+          <div style={styles.box}> 
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Module 3: HTML Elements and Attributes</h4>
+           <a href="https://docs.google.com/document/d/1o35f5Tw9N6gZRCzQJvAUqYk4e2GZBuAMAtM18lKWZ7c/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <span style={styles.view}>Click</span>
+</a>
+            </div>
+        </div>
+        <div style={styles.box}> 
+          
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Module 4: HTML Lists</h4>
+           <a href="https://docs.google.com/document/d/1cyB9KDHlUtYvt9UPHZojMA3cGCXDEyUZp8k0TDqnX3o/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <span style={styles.view}>Click</span>
+</a>
+            </div>
+        </div>
+        <div style={styles.box}> 
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Module 5: HTML Links and Anchors</h4>
+            <a href="https://docs.google.com/document/d/18MKbUaHs_rpZbQlz_Fvu-KnVtLCHcJSEFEXCWDhqK9M/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <span style={styles.view}>Click</span>
+</a>
+            </div>
+        </div>
+        <div style={styles.box}> 
+            <div style={styles.box1}><h4  style={styles.heading}>✅ Module 6: HTML Images</h4>
+           <a href="https://docs.google.com/document/d/1A_LZl9ayf4zCcIoRJqCKLvmy9kHYeJPtFFulrmp2bT8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <span style={styles.view}>Click</span>
+</a>
+            </div>
+        </div>
+        <div style={styles.box}> 
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Module 7: HTML Tables</h4>
+            <a href="https://docs.google.com/document/d/1W-RbN0B6uBPXH8IISQs__fgJ-E0OXkDIPAxixdE2mHo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <span style={styles.view}>Click</span>
+</a>
+            </div>
+        </div>
+        <div style={styles.box}> 
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Module 8: HTML Forms</h4>
+            <a href="https://docs.google.com/document/d/1aDvyVbeQ_oZ28HGqzYEQ2KueBJjvmGkd36bERudGns8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <span style={styles.view}>Click</span>
+</a>
+            </div>
+        </div>
+        <div style={styles.box}> 
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Module 9: HTML Media</h4>
+          <a href="https://docs.google.com/document/d/1kn3iATCQVhRy1VqAAgkzFwC4On6QwRWpXMLzAv0xc_o/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <span style={styles.view}>Click</span>
+</a>
+            </div>
+        </div>
+        
+        <div style={styles.box}> 
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Module 10: HTML Semantic Elements</h4>
+            <a href="https://docs.google.com/document/d/1hOmW7f9vm0LLm-eRhSHlp9qt0ny0bKffuALGPmwt3YA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <span style={styles.view}>Click</span>
+</a>
+            </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// Styles
+const styles = {
+     box: {
+    padding: "10px",
+    border: "1px solid #ccc",
+    margin: "10px"
+  },
+  box1: {
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "center"
+  },
+  heading: {
+    margin: 0
+  },
+  view: {
+    color: "blue",
+    cursor: "pointer"
+  },
+    // ---------------
+  container: {
+    display: 'flex',
+    minHeight: '100vh',
+    fontFamily: 'Arial, sans-serif',
+    backgroundColor: '#f5f7fa',
+  },
+  sidebar: {
+    width: '220px',
+    backgroundColor: '#1e293b',
+    color: '#fff',
+    padding: '20px',
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'space-between',
+  },
+  logo: {
+    fontSize: '24px',
+    marginBottom: '20px',
+    fontWeight: 'bold',
+  },
+  navList: {
+    listStyle: 'none',
+    padding: 0,
+    margin: 0,
+    flexGrow: 1,
+  },
+  navItem: {
+    marginBottom: '15px',
+    cursor: 'pointer',
+    color: '#cbd5e1',
+  },
+  logoutBtn: {
+    marginTop: '20px',
+    padding: '10px',
+    backgroundColor: '#ef4444',
+    color: 'white',
+    border: 'none',
+    borderRadius: '6px',
+    cursor: 'pointer',
+  },
+  content: {
+    flex: 1,
+    padding: '40px',
+  },
+  welcome: {
+    fontSize: '28px',
+    marginBottom: '30px',
+    color: '#1e293b',
+  },
+  profileCard: {
+    display: 'flex',
+    alignItems: 'center',
+    gap: '20px',
+    backgroundColor: '#fff',
+    padding: '20px',
+    borderRadius: '12px',
+    boxShadow: '0 2px 10px rgba(0,0,0,0.05)',
+    maxWidth: '500px',
+  },
+  profileImage: {
+    width: '90px',
+    height: '90px',
+    borderRadius: '50%',
+    objectFit: 'cover',
+  }
+};
+
+export async function getServerSideProps(context) {
+  const session = await getSession(context);
+
+  if (!session) {
+    return {
+      redirect: {
+        destination: "/login",
+        permanent: false,
+      },
+    };
+  }
+
+  return {
+    props: {
+      user: session.user,
+    },
+  };
+}
