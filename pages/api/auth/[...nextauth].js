@@ -16,8 +16,8 @@ export default NextAuth({
       // If the URL is a relative path, return as-is (used via signIn)
       if (url.startsWith("/")) return url;
 
-      // If absolute URL (e.g. full http://...), default to baseUrl/dashboard ${baseUrl}/
-      return `saarthilms.com`;
+      // If absolute URL (e.g. full http://...), default to baseUrl/dashboard
+      return `${baseUrl}`;
     },
   },
 });
