@@ -17,7 +17,7 @@ export default NextAuth({
       if (url.startsWith("/")) return url;
 
       // If absolute URL (e.g. full http://...), default to baseUrl/dashboard
-      return `${baseUrl}`;
+      return `${baseUrl}/saarthilms.com`;
     },
   },
 });

@@ -29,21 +29,21 @@ export default function cssdashboard({ user }) {
     <h4 style={styles.heading}>
      📘 1. Introduction to CSS
     </h4>
- <a href="" target="_blank" rel="noopener noreferrer">
+ <a href="https://docs.google.com/document/d/1MWkibhNB-ozIv36sqwi6mMfeE_H-CMfkpskPQgRG_8c/edit?tab=t.0#heading=h.sx9i1gzcxnnl" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
   </div>
         </div>
           <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>🎨 2. CSS Selectors</h4> 
-           <a href="" target="_blank" rel="noopener noreferrer">
+           <a href="https://docs.google.com/document/d/1mo75698lwuEbVGOxqU-uC4Q0uA_B1-wTy6Onc-RQ8EY/edit?tab=t.0#heading=h.44vz4b4ggo0k" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
           <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>📏 3. CSS Colors, Units, and Values</h4>
-           <a href="" target="_blank" rel="noopener noreferrer">
+           <a href="https://docs.google.com/document/d/1PIvdjw8WOO__vpHUy-YE0kpHHPKBvq_kgpISaJ0olak/edit?tab=t.0#heading=h.9iw87wcszxpp" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
@@ -51,42 +51,42 @@ export default function cssdashboard({ user }) {
         <div style={styles.box}> 
           
             <div style={styles.box1}><h4 style={styles.heading}>🧱 4. CSS Box Model</h4>
-           <a href="" target="_blank" rel="noopener noreferrer">
+           <a href="https://docs.google.com/document/d/14VTkcBZmcP3ongcpX16oN_95HJ8pTEJTcppvJoGhI7c/edit?tab=t.0#heading=h.hsurv9yynqrz" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>💅 5. Styling Text & Fonts</h4>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://docs.google.com/document/d/1uC5O8yZ1-bddDSmuI6yJjpdCSbNsuyX7_YqIKLCYo1Y/edit?tab=t.0#heading=h.uq2nbtbj6f2" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
             <div style={styles.box1}><h4  style={styles.heading}>🎯 6. CSS Backgrounds & Borders</h4>
-           <a href="" target="_blank" rel="noopener noreferrer">
+           <a href="https://docs.google.com/document/d/1uC5O8yZ1-bddDSmuI6yJjpdCSbNsuyX7_YqIKLCYo1Y/edit?tab=t.0#heading=h.uq2nbtbj6f2" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>📐 7. CSS Display and Positioning</h4>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://docs.google.com/document/d/1h8NcsX117XG7qGa6-Weue9YGntGWLltJ9Xl0A67ILHU/edit?tab=t.0" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>📦 8. CSS Layout Techniques</h4>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://docs.google.com/document/d/1QR4hcKR4oz2Nubwjg84CUVLE2bXuIIISGMCjeTrmnRk/edit?tab=t.0#heading=h.ghkaiheqoqjz" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>🧩 9. CSS Lists, Tables, Forms </h4>
-          <a href="" target="_blank" rel="noopener noreferrer">
+          <a href="https://docs.google.com/document/d/1XKwt1XQ4HLebxRHPFCB2VRFeXunXThTV86VN4rrK6wk/edit?tab=t.0" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
@@ -94,7 +94,7 @@ export default function cssdashboard({ user }) {
         
         <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>🌐 10. CSS Media Queries (Responsive Design)</h4>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="https://docs.google.com/document/d/1zFKgxfDP-jd33P4ddraGWf3tubswYG8-HUuQfPT3vjQ/edit?tab=t.0" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
