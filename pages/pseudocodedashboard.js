@@ -24,45 +24,7 @@ export default function jsdashboard({ user }) {
             <p><strong>Email:</strong> {user.email}</p>
           </div>
         </div> */}
-        <div style={styles.box}> 
-          <div style={styles.box1}>
-    <h4 style={styles.heading}>
-     🟢1. Hello World
-    </h4>
- <a href="https://docs.google.com/document/d/1bIIsaopUkuqhNoQ59AN8qTGLPvorPeoCxwiGONL9nng/edit?tab=t.0#heading=h.lekebhdva41p" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-  </div>
-        </div>
-          <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🟡 2. Add Two Numbers</h4> 
-           <a href="https://docs.google.com/document/d/1cUOFmmk9B7PnF9cZWmg3bfWOso3hSrAWn3OHnxq7QFA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
-          <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🔵 3. Check Even or Odd</h4>
-           <a href="https://docs.google.com/document/d/1Oqp18lhynAjpPF7kaMmTxT-7eI0yXqitBz4Xo0BGAT4/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
-        <div style={styles.box}> 
-          
-            <div style={styles.box1}><h4 style={styles.heading}>🟣4. Find Maximum of Two Numbers</h4>
-           <a href="https://docs.google.com/document/d/1ausoEVKoN5TI1KsotMf8wOZ0uwRIy4uusI1VKF9W2Xc/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
-        <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🟠 5. Print Numbers 1 to 10</h4>
-            <a href="https://docs.google.com/document/d/1TrOD2tn-dgluV4ECI1UmH-mqQN5uFXb6WlSenAusNRQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
+       
           <div style={styles.box}> 
             <div style={styles.box1}><h4  style={styles.heading}>🔵 Pseudocode_Test-1</h4>
            <a href="https://blockcept45.github.io/sudomcq1-5/" target="_blank" rel="noopener noreferrer">
@@ -70,45 +32,17 @@ export default function jsdashboard({ user }) {
 </a>
             </div>
         </div>
-        <div style={styles.box}> 
-            <div style={styles.box1}><h4  style={styles.heading}>🔵 6. Sum of First N Natural Numbers</h4>
-           <a href="https://docs.google.com/document/d/1jcYFIrVmkwcCWHZ5OSVRgcY5WhUUTh_qbGCuAAuj2YM/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
-        <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🟡 7. Reverse a Numbers</h4>
-            <a href="https://docs.google.com/document/d/1c7yiPbXIVkI57yFxE5KROlcV9wuI86kNa8waYmDsi10/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
-        <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🔴 8. Find Factorial of a Number</h4>
-            <a href="https://docs.google.com/document/d/1OIWfaHRCWINji2LHyOhNColEdxtcF5fj4cOkcx5pQPg/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
-        <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🟢 9. Check Prime Number</h4>
-          <a href="https://docs.google.com/document/d/1LXhAQ1Tx7hTBCohDQ4mFqRrWojfjvgknCQwqoHbwsfg/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
-        
-        <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🟣 10. Fibonacci Series up to N Terms</h4>
-            <a href="https://docs.google.com/document/d/1LWTDTCEDU7ouZ2zph9bCB-mTKslCwHUUXKW910GeHsU/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+       
+         <div style={styles.box}> 
+            <div style={styles.box1}><h4  style={styles.heading}>🔵 Pseudocode_Test-2</h4>
+           <a href="https://blockcept45.github.io/sudomcq_5-10/" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
          <div style={styles.box}> 
-            <div style={styles.box1}><h4  style={styles.heading}>🔵 Pseudocode_Test-2</h4>
-           <a href="https://blockcept45.github.io/sudomcq_5-10/" target="_blank" rel="noopener noreferrer">
+            <div style={styles.box1}><h4  style={styles.heading}>🔵 Pseudocode_Test-3</h4>
+           <a href="https://saarthilms.com/PseudoCode/1" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
