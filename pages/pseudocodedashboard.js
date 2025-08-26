@@ -61,6 +61,13 @@ export default function jsdashboard({ user }) {
 </a>
             </div>
         </div>
+<div style={styles.box}> 
+            <div style={styles.box1}><h4  style={styles.heading}>🔵 Pseudocode_Test-6</h4>
+           <a href="https://saarthilms.com/PseudoCode/4" target="_blank" rel="noopener noreferrer">
+  <span style={styles.view}>Click</span>
+</a>
+            </div>
+        </div>
          {/* <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>🟠 11. Find Smallest of Three Numbers</h4>
             <a href="https://docs.google.com/document/d/1nVbGk5lcunKQc95ol5avPP8Tvo9quDYsd-lIEuITDao/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
