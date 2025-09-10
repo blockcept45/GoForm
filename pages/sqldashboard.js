@@ -10,7 +10,7 @@ export default function reactjsdashboard({ user }) {
           <li style={styles.navItem}>Dashboard</li>
          <li style={styles.navItem}>
   <a href="https://forms.gle/qs6iJUo3MTkpS2Di8" style={{ textDecoration: "none", color: "inherit" }}>
-    Assignment Link Upload
+    Google Docs Link Upload
   </a>
 </li>
 
