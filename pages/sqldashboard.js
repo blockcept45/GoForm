@@ -39,72 +39,80 @@ export default function reactjsdashboard({ user }) {
     <h4 style={styles.heading}>
       ✅ 1. SQL Basics
     </h4>
- <a href="" target="_blank" rel="noopener noreferrer">
+ <a href="https://saarthilms.com/sql/1" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
   </div>
         </div>
           <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>✅ 2. Table Operations (DDL)</h4> 
-           <a href="https://docs.google.com/document/d/1DT1QEk-qBYvqHh0t5NBpc58KakNYFOZUXy1gE9wd_EQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+           <a href="https://saarthilms.com/sql/2" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
           <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>✅ 3. Data Insertion (DML)</h4>
-           <a href="https://docs.google.com/document/d/1o35f5Tw9N6gZRCzQJvAUqYk4e2GZBuAMAtM18lKWZ7c/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Upcomming Soon </h4>
+            {/*3. Data Insertion (DML)  */}
+           <a href="#" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
           
-            <div style={styles.box1}><h4 style={styles.heading}>✅ 4. Data Modification (DML)</h4>
-           <a href="https://docs.google.com/document/d/1cyB9KDHlUtYvt9UPHZojMA3cGCXDEyUZp8k0TDqnX3o/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <div style={styles.box1}><h4 style={styles.heading}>✅  Upcomming Soon</h4>
+            {/* 4. Data Modification (DML) */}
+           <a href="#" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>✅ 5. Querying Data (DQL)</h4>
-            <a href="https://docs.google.com/document/d/18MKbUaHs_rpZbQlz_Fvu-KnVtLCHcJSEFEXCWDhqK9M/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Upcomming Soon </h4>
+            {/* 5. Querying Data (DQL) */}
+            <a href="#" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
-            <div style={styles.box1}><h4  style={styles.heading}>✅ 6. String Functions</h4>
-           <a href="https://docs.google.com/document/d/1A_LZl9ayf4zCcIoRJqCKLvmy9kHYeJPtFFulrmp2bT8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <div style={styles.box1}><h4  style={styles.heading}>✅ Upcomming Soon</h4>
+            {/* 6. String Functions */}
+           <a href="#" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>✅ 7. Aggregate Functions</h4>
-            <a href="https://docs.google.com/document/d/1W-RbN0B6uBPXH8IISQs__fgJ-E0OXkDIPAxixdE2mHo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Upcomming Soon</h4>
+            {/* 7. Aggregate Functions */}
+            <a href="#" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>✅ 8. Subqueries</h4>
-            <a href="https://docs.google.com/document/d/1aDvyVbeQ_oZ28HGqzYEQ2KueBJjvmGkd36bERudGns8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Upcomming Soon </h4>
+            {/* 8. Subqueries */}
+            <a href="#" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>✅ 9. Grouping & Aggregation</h4>
-          <a href="https://docs.google.com/document/d/1kn3iATCQVhRy1VqAAgkzFwC4On6QwRWpXMLzAv0xc_o/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Upcomming Soon </h4>
+            {/* 9. Grouping & Aggregation */}
+          <a href="#" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         
         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>✅ 10. Sorting & Pagination</h4>
-            <a href="https://docs.google.com/document/d/1hOmW7f9vm0LLm-eRhSHlp9qt0ny0bKffuALGPmwt3YA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <div style={styles.box1}><h4 style={styles.heading}>✅Upcomming Soon </h4>
+            {/* 10. Sorting & Pagination */}
+            <a href="#" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
