@@ -27,6 +27,16 @@ export default function cssdashboard({ user }) {
     Assignment score AIML
   </a>
 </li>
+ <li style={styles.navItem}>
+  <a href="https://forms.gle/uA8xuYXWCsBmLMGa6" style={{ textDecoration: "none", color: "inherit" }}>
+    EC/EX Link Upload
+  </a>
+</li>
+          <li style={styles.navItem}>
+  <a href="https://docs.google.com/spreadsheets/d/1JH7wClRBHZPIAalMXGCG-M2r4yS0mozDSh6JX1_F_8c/edit?usp=sharing" style={{ textDecoration: "none", color: "inherit" }}>
+    Assignment score EC/EX
+  </a>
+</li>
           <li style={styles.navItem}>Settings</li>
         </ul>
         <button onClick={() => signOut()} style={styles.logoutBtn}>Logout</button>
