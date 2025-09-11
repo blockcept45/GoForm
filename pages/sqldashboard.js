@@ -8,11 +8,11 @@ export default function reactjsdashboard({ user }) {
         <h2 style={styles.logo}>MyApp</h2>
         <ul style={styles.navList}>
           <li style={styles.navItem}>Dashboard</li>
-         <li style={styles.navItem}>
+         {/* <li style={styles.navItem}>
   <a href="https://forms.gle/qs6iJUo3MTkpS2Di8" style={{ textDecoration: "none", color: "inherit" }}>
     Google Docs Link Upload
   </a>
-</li>
+</li> */}
 
 <li style={styles.navItem}>
   <a href="https://docs.google.com/spreadsheets/d/1k7SkB8VwOLi7WmKVyKAgmg9AFl72djWQaQSMWRf5SdM/edit?usp=sharing" style={{ textDecoration: "none", color: "inherit" }}>
