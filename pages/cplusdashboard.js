@@ -7,31 +7,31 @@ export default function cssdashboard({ user }) {
       <div style={styles.sidebar}>
         <h2 style={styles.logo}>MyApp</h2>
         <ul style={styles.navList}>
-          {/* <li style={styles.navItem}>
+          <li style={styles.navItem}>
   <a href="https://forms.gle/8ZRaxvb4Pcsd3DYDA" style={{ textDecoration: "none", color: "inherit" }}>
     Data Science Link Upload
   </a>
-</li> */}
+</li>
           <li style={styles.navItem}>
   <a href="https://docs.google.com/spreadsheets/d/1Yzw6P2Jr3JyBYWSnzzbQp-bzRzUaW2mcUY4BYQmgz6E/edit?usp=sharing" style={{ textDecoration: "none", color: "inherit" }}>
     Assignment score Data Science
   </a>
 </li>
- {/* <li style={styles.navItem}>
+ <li style={styles.navItem}>
   <a href="https://forms.gle/Ag18vehNL1t1ENoW8" style={{ textDecoration: "none", color: "inherit" }}>
     AIML Link Upload
   </a>
-</li> */}
+</li>
           <li style={styles.navItem}>
   <a href="https://docs.google.com/spreadsheets/d/1bXD6ZGQSUw8gET8MDHVojjBasPG1LZm5i_jsvs378AI/edit?usp=sharing" style={{ textDecoration: "none", color: "inherit" }}>
     Assignment score AIML
   </a>
 </li>
- {/* <li style={styles.navItem}>
+ <li style={styles.navItem}>
   <a href="https://forms.gle/uA8xuYXWCsBmLMGa6" style={{ textDecoration: "none", color: "inherit" }}>
     EC/EX Link Upload
   </a>
-</li> */}
+</li>
           <li style={styles.navItem}>
   <a href="https://docs.google.com/spreadsheets/d/1JH7wClRBHZPIAalMXGCG-M2r4yS0mozDSh6JX1_F_8c/edit?usp=sharing" style={{ textDecoration: "none", color: "inherit" }}>
     Assignment score EC/EX
