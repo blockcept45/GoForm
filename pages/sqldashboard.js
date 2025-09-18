@@ -54,7 +54,7 @@ export default function reactjsdashboard({ user }) {
           <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>✅ Upcomming Soon </h4>
             {/*3. Data Insertion (DML)  */}
-           <a href="#" target="_blank" rel="noopener noreferrer">
+           <a href="https://saarthilms.com/sql/3" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
@@ -63,7 +63,7 @@ export default function reactjsdashboard({ user }) {
           
             <div style={styles.box1}><h4 style={styles.heading}>✅  Upcomming Soon</h4>
             {/* 4. Data Modification (DML) */}
-           <a href="#" target="_blank" rel="noopener noreferrer">
+           <a href="https://saarthilms.com/sql/4" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
@@ -71,7 +71,7 @@ export default function reactjsdashboard({ user }) {
         <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>✅ Upcomming Soon </h4>
             {/* 5. Querying Data (DQL) */}
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a href="https://saarthilms.com/sql/5" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
