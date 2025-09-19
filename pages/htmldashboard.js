@@ -41,6 +41,13 @@ export default function Dashboard({ user }) {
 </a>
             </div>
         </div>
+         <div style={styles.box}> 
+            <div style={styles.box1}><h4 style={styles.heading}>✅ Practice Test 1</h4> 
+           <a href="https://saarthilms.com/HTML/test2" target="_blank" rel="noopener noreferrer">
+  <span style={styles.view}>Click</span>
+</a>
+            </div>
+        </div>
           <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>✅ Module 3: HTML Elements and Attributes</h4>
            <a href="https://saarthilms.com/HTML/3" target="_blank" rel="noopener noreferrer">
