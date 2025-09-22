@@ -77,42 +77,42 @@ export default function reactjsdashboard({ user }) {
             </div>
         </div>
         <div style={styles.box}> 
-            <div style={styles.box1}><h4  style={styles.heading}>✅ Upcomming Soon</h4>
+            <div style={styles.box1}><h4  style={styles.heading}>✅ 6. String Functions</h4>
             {/* 6. String Functions */}
-           <a href="#" target="_blank" rel="noopener noreferrer">
+           <a href="https://saarthilms.com/sql/6" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>✅ Upcomming Soon</h4>
+            <div style={styles.box1}><h4 style={styles.heading}>✅ 7. Aggregate Functions</h4>
             {/* 7. Aggregate Functions */}
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a href="https://saarthilms.com/sql/7" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>✅ Upcomming Soon </h4>
+            <div style={styles.box1}><h4 style={styles.heading}>✅ 8. Subqueries </h4>
             {/* 8. Subqueries */}
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a href="https://saarthilms.com/sql/8" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>✅ Upcomming Soon </h4>
+            <div style={styles.box1}><h4 style={styles.heading}>✅ 9. Grouping & Aggregation </h4>
             {/* 9. Grouping & Aggregation */}
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="https://saarthilms.com/sql/9" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         
         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>✅Upcomming Soon </h4>
+            <div style={styles.box1}><h4 style={styles.heading}>✅ 10. Sorting & Pagination</h4>
             {/* 10. Sorting & Pagination */}
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a href="https://saarthilms.com/sql/10" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
