@@ -29,21 +29,21 @@ export default function jsdashboard({ user }) {
     <h4 style={styles.heading}>
      🟢 1. Introduction to JavaScript
     </h4>
- <a href="https://docs.google.com/document/d/1cHGHyd-msv9fZ73qUMeq8kZuLUawaPWCbmUet6jtHzk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+ <a href="https://saarthilms.com/js/1" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
   </div>
         </div>
           <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>🟡 2. Basics & Syntax</h4> 
-           <a href="https://docs.google.com/document/d/1HVW2kZkKU_Xo9ZkWzCMK-CwWVOJd3fXvhgrCmQFpS2Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+           <a href="https://saarthilms.com/js/2" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
           <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>🔵 3. Control Structures</h4>
-           <a href="https://docs.google.com/document/d/1LLE1zbQVIWnsTBC50iK-D9IWSLV6qNmEyTuY3OLkKhk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+           <a href="https://saarthilms.com/js/3" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
@@ -51,7 +51,7 @@ export default function jsdashboard({ user }) {
         <div style={styles.box}> 
           
             <div style={styles.box1}><h4 style={styles.heading}>🟣 4. Functions</h4>
-           <a href="https://docs.google.com/document/d/1YZiM0N8e4_ZB3UNVoNJHmApIvwn9WQw8u2LZ_EFJSrE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+           <a href="https://saarthilms.com/js/4" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
