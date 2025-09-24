@@ -58,28 +58,28 @@ export default function jsdashboard({ user }) {
         </div>
         <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>🟠 5. Objects</h4>
-            <a href="https://docs.google.com/document/d/1_75VwFcrz8NNyCvfUlGZSO-2FJYPQy1ONdi62pGkefM/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <a href="https://saarthilms.com/jsm/5" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
             <div style={styles.box1}><h4  style={styles.heading}>🔵 6. Arrays</h4>
-           <a href="https://docs.google.com/document/d/16PAsEHwfnoiHPyNKvpvPLT5yhL9qIPw9yK0z75qnjkA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+           <a href="https://saarthilms.com/jsm/6" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>🟡 7. Strings</h4>
-            <a href="https://docs.google.com/document/d/1MNqB4ynhzs1gshGbFRl9kbw0kP35cB4F8sL9RfU0TNY/edit?tab=t.0#heading=h.1mco95az83a" target="_blank" rel="noopener noreferrer">
+            <a href="https://saarthilms.com/jsm/7" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
         </div>
         <div style={styles.box}> 
             <div style={styles.box1}><h4 style={styles.heading}>🔴 8. DOM (Document Object Model) Manipulation</h4>
-            <a href="https://docs.google.com/document/d/1TmzWmpH2GUrLJmR6dAa-OgqFj50rO1v1WWb-FHlwoCo/edit?tab=t.0#heading=h.9fjnfa9020yg" target="_blank" rel="noopener noreferrer">
+            <a href="https://saarthilms.com/jsm/8" target="_blank" rel="noopener noreferrer">
   <span style={styles.view}>Click</span>
 </a>
             </div>
