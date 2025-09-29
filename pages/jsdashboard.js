@@ -140,43 +140,7 @@ export default function jsdashboard({ user }) {
   <span style={styles.view}>Click</span>
 </a>
             </div>
-        </div>
-         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🟢 17. Advanced JavaScript</h4>
-            <a href="https://docs.google.com/document/d/1PMpDVY2tvpU-WYiqMW4tb4FQ5AezBT5jIneaAyBWrAI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
-         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🟣 18. JavaScript in the Browser</h4>
-            <a href="https://docs.google.com/document/d/1rhHexTsaWE65DLnjy48beib1sjA5DDaOC8bTvdsO-og/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
-         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🟠 19. Testing & Debugging</h4>
-            <a href="https://docs.google.com/document/d/1TqFnU635tdzYdzISLZSCAgksD2V6bE9yn2PdA7no_hA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
-         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🔴 20. JavaScript and JSON</h4>
-            <a href="https://docs.google.com/document/d/1YN6cuf2VhEv0qIXW2rmfFfM1qZNsxgZ_h8jCOmK7SMw/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
-         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🟡 21. Working with APIs</h4>
-            <a href="https://docs.google.com/document/d/1VcCCDCrrWuz-myDrHWRps0vQxE9tFV85NdjkYm5LO14/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-        </div>
-         
+      </div>
       </div>
     </div>
   );
