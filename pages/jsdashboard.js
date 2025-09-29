@@ -134,13 +134,7 @@ export default function jsdashboard({ user }) {
 </a>
             </div>
         </div>
-         <div style={styles.box}> 
-            <div style={styles.box1}><h4 style={styles.heading}>🔵 16. Modules & Tooling</h4>
-            <a href="https://docs.google.com/document/d/1Oc5k1la62WJUO9YuG9nf_EKJJeli7thto5BKjS9fy48/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <span style={styles.view}>Click</span>
-</a>
-            </div>
-      </div>
+       
       </div>
     </div>
   );
